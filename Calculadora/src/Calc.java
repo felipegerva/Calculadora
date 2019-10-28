@@ -18,7 +18,7 @@ public class Calc {
 	}
 		
 	public static void main (String args[]){
-
+//main
 		Calc c = new Calc();
 
 		int opcao = 5;
