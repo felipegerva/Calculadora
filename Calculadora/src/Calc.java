@@ -20,7 +20,7 @@ public class Calc {
 	public static void main (String args[]){
 //main
 		Calc c = new Calc();
-
+//kappa
 		int opcao = 5;
 		int num1;
 		int num2;
